@@ -1,2 +1,2 @@
 # Python_Understandings
-Important Concepts, Ignored mistakes,Interesting concepts is listed
+Important Concepts, Ignored mistakes,Interesting findings, libraries is listed
